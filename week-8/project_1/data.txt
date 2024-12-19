@@ -1,0 +1,3 @@
+The brand of drink stored is Non-Alcoholic and its drink names are:
+Coke
+Fanta

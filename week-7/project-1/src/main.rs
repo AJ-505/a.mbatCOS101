@@ -2,24 +2,7 @@ use std::io;
 use std::thread::sleep;
 use std::time::Duration; // These are for the functionality of pausing the program for a specific number of seconds.
 
-fn process(vector:Vec<&str>){
-    let mut output:&str = "";
-    let mut experience_years:u32 = (parsed(input("How many years of experience do you have?").as_str())) as u32;
-    output = match experience_years {
-        experience_years if experience_years < 3 => vector[0],
-        experience_years if experience_years < 6 => vector[1],
-        experience_years if experience_years < 9 => vector[2],
-        experience_years if experience_years < 11 => vector[3],
-        experience_years if experience_years < 14 => vector[4],
-        _ => vector[5],
-    };
-    let first_char = output.chars().nth(0).unwrap().to_lowercase().next().unwrap();
-    if first_char == 'a' || first_char == 'e' || first_char == 'i' || first_char == 'o' || first_char == 'u' {
-        println!("You are an {}", output);
-    } else {
-        println!("You are a {}", output);
-    }
-}
+
 fn input(msg: &str) -> String {
     let mut input1 = String::new();
     println!("{}", msg);
