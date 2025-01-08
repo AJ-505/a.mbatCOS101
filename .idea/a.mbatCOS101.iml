@@ -1,7 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="EMPTY_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/week-3/practice-10/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-3/practice-2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-3/practice-3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-3/practice-4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-3/practice-5/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-3/practice-6/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-3/practice-7/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-3/practice-8/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-3/practice-9/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-3/practice_1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-4/practice_1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-4/practice_2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-4/practice_3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-4/practice_4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-4/practice_5/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-4/practice_6/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-4/practice_7/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-4/practice_8/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-4/practice_9/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-4/project_1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-4/project_2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-4/project_3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-5/practice_1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-5/practice_10/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-5/practice_11/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-5/practice_2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-5/practice_3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-5/practice_4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-5/practice_5/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-5/practice_6/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-5/practice_7/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-5/practice_8/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-5/practice_9/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-5/project_1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-6/practice_1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-6/practice_2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-6/practice_3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-6/practice_4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-6/practice_5/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-6/practice_6/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-6/practice_7/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-6/practice_8/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-6/practice_9/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-6/project_1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-7/practice_1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-7/practice_10/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-7/practice_11/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-7/practice_12/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-7/practice_2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-7/practice_3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-7/practice_4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-7/practice_5/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-7/practice_6/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-7/practice_7/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-7/practice_8/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-7/practice_9/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-7/project-1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-7/project-2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-8/practice_1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-8/practice_2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-8/practice_3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-8/practice_4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-8/project_1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-8/project_2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week-8/project_3/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/week-3/practice-10/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-3/practice-2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-3/practice-3/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-3/practice-4/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-3/practice-5/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-3/practice-6/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-3/practice-7/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-3/practice-8/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-3/practice-9/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-3/practice_1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-4/practice_1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-4/practice_2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-4/practice_3/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-4/practice_4/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-4/practice_5/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-4/practice_6/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-4/practice_7/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-4/practice_8/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-4/practice_9/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-4/project_1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-4/project_2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-4/project_3/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-5/practice_1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-5/practice_10/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-5/practice_11/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-5/practice_2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-5/practice_3/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-5/practice_4/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-5/practice_5/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-5/practice_6/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-5/practice_7/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-5/practice_8/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-5/practice_9/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-5/project_1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-6/practice_1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-6/practice_2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-6/practice_3/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-6/practice_4/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-6/practice_5/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-6/practice_6/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-6/practice_7/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-6/practice_8/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-6/practice_9/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-6/project_1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-7/practice_1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-7/practice_10/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-7/practice_11/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-7/practice_12/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-7/practice_2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-7/practice_3/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-7/practice_4/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-7/practice_5/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-7/practice_6/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-7/practice_7/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-7/practice_8/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-7/practice_9/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-7/project-1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-7/project-2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-8/practice_1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-8/practice_2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-8/practice_3/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-8/practice_4/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-8/project_1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-8/project_2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/week-8/project_3/target" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
