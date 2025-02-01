@@ -40,7 +40,7 @@ else if response == "c" || response == "4"{
     display("customer_tb.sql");
 }
 else{
-    display("globacom_db.sql");
+    display("dataplan_tb.sql");
 }
 
 println!("Thank you so much for using this program.");
